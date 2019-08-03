@@ -1,0 +1,1 @@
+global.middleworld_B01_monster = 3

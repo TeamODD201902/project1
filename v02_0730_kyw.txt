@@ -1,0 +1,11 @@
+v02-2_KYW
+
+주요 작업내용 : middleworld 기본 맵 작업 완료
+
+- middleworld의 B01/BOSS 맵 크기 약 1.5~2.0배 증가
+
+- B02/B03층 맵 타일 작업 완료 ( v01보다 맵 크기 증가 )
+
+- B03 / BOSS 맵 천장 타일 디테일 살리기
+
+- middleworld 맵 전체에 구상도 위치대로 spr_middleworld_door_locked_front 설치
